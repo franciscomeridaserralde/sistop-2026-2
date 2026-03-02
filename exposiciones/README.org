@@ -11,13 +11,14 @@
   como lo refleja la rúbrica, obtiene una calificación un poco más alta)
   el que ustedes me planteen los temas de su interés.
 
-  |-------------+------------------------------------------------------+---------------------------------------------+---------+--------------+--------------|
-  | *Fecha*     | *Integrantes*                                        | *Integrantes*                               | *Video* | *Documentos* | *Evaluación* |
-  |-------------+------------------------------------------------------+---------------------------------------------+---------+--------------+--------------|
-  | 02-mar-2026 | Hans Martínez Sánchez e Isaías Blancas Díaz          | /Thrashing/ en la Memoria Virtual           |         |              |              |
-  | 09-mar-2026 | Jesús Alejandro Monroy Tapia y Bruno Ponce de León   | Vulnerabilidad /Eternal Blue/ de Windows NT |         |              |              |
-  | 09-mar-2026 | Lizbeth Cruz Manríquez y Víctor Javier Brena de León | Unidades de procesamiento neuronal          |         |              |              |
-  |-------------+------------------------------------------------------+---------------------------------------------+---------+--------------+--------------|
+  |-------------+------------------------------------------------------+--------------------------------------------------------------------------+---------+--------------+------------------------------|
+  | *Fecha*     | *Integrantes*                                        | *Integrantes*                                                            | *Video* | *Documentos* | *Evaluación*                 |
+  |-------------+------------------------------------------------------+--------------------------------------------------------------------------+---------+--------------+------------------------------|
+  | 02-mar-2026 | Hans Martínez Sánchez e Isaías Blancas Díaz          | /Thrashing/ en la Memoria Virtual                                        | [[https://youtu.be/Bl3WWtUFZ5Y][Ver]]     |              | [[https://youtu.be/Bl3WWtUFZ5Y][Evaluación de los compañeros]] |
+  | 09-mar-2026 | Jesús Alejandro Monroy Tapia y Bruno Ponce de León   | Vulnerabilidad /Eternal Blue/ de Windows NT                              |         |              |                              |
+  | 09-mar-2026 | Lizbeth Cruz Manríquez y Víctor Javier Brena de León | Unidades de procesamiento neuronal                                       |         |              |                              |
+  | 16-mar-2026 | Adrián Axel Arzate Ríos y David Díaz Antunez         | La relación entre los sistemas operativos y las tarjetas gráficas (GPUs) |         |              |                              |
+  |-------------+------------------------------------------------------+--------------------------------------------------------------------------+---------+--------------+------------------------------|
   #+TBLFM: 
 
 * Rúbrica de evaluación
