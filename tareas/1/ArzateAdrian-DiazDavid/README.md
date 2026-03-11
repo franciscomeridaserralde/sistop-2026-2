@@ -7,12 +7,12 @@ Esta tarea consiste en desarrollar un intérprete de comandos mínimo (minishell
 El programa permite:
 - Mostrar un prompt y leer comandos del usuario
 - Separar el programa y sus argumentos
-- Crear procesos hijos con ´fork()´
-- Ejecutar programas con ´execvp()´
-- Recolectar procesos hijos terminados mediante la señal ´SIGCHLD´
-- Ignorar ´SIGINT´ en el shell padre
-- Restaurar el comportamiento normal de ´SIGINT´ en los procesos hijos
-- Manejar el comando interno ´exit´
+- Crear procesos hijos con `fork()`
+- Ejecutar programas con `execvp()`
+- Recolectar procesos hijos terminados mediante la señal `SIGCHLD`
+- Ignorar `SIGINT` en el shell padre
+- Restaurar el comportamiento normal de `SIGINT` en los procesos hijos
+- Manejar el comando interno `exit`
 
 *No se impolementan tuberías, redirecciones ni variables de entorno*
 
@@ -28,5 +28,5 @@ El programa permite:
 
 Ejecutar el programa en bash con:
 
-'pyton3 minishell.py'
+`pyton3 minishell.py`
 
