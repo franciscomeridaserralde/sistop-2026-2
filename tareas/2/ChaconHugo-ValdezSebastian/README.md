@@ -72,7 +72,7 @@ Otro fue crear una interrupcion con el teclado _KeyboardInterrupt_, de esta form
 
 
 ## Dudas / mejoras
-No logramos que sirviera la idea de que la tabla se actualizara en tiempo real, en vez de imprimir infinitamente  
+No logramos que sirviera la idea de que la tabla se actualizara en tiempo real, en vez de imprimir infinitamente.
 
 
 
